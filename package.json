@@ -1,0 +1,7 @@
+{
+  "name": "@eritbh/catgirl",
+  "version": "0.0.0-nyaaaaa",
+  "scripts": {
+    "preinstall": "case \"$npm_config_user_agent\" in *yarn*) exit 0 ;; *)echo \"Where's my string...?\"; exit 1; esac"
+  }
+}
